@@ -1225,6 +1225,37 @@ don't replay
 ## Response:
 Got it! Let me know whenever you need help. 😊
 
+---
+
+## Prompt:
+now give only the titles
+eg
+1. Creating DataFrames and Series
+2.Reading and Writing Data
+3.Data Inspection
+..
+..
+
+## Response:
+1.  Creating DataFrames and Series
+2.  Reading and Writing Data
+3.  Data Inspection
+4.  Indexing and Selection
+5.  Filtering and Querying
+6.  Sorting
+7.  Grouping and Aggregation
+8.  Handling Missing Data
+9.  Merging and Joining
+10.  Reshaping Data
+11.  Statistical Operations
+12.  Applying Functions
+13.  Time-related Operations
+14.  Handling Categorical Data
+15.  String Operations
+16.  Iterating
+17.  Plotting
+18.  Duplicate and Unique Values
+
 
 
 ---
