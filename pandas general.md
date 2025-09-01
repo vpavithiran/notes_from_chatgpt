@@ -1228,4 +1228,3 @@ Got it! Let me know whenever you need help. 😊
 
 
 ---
-Powered by [ChatGPT Exporter](https://www.chatgptexporter.com)
