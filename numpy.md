@@ -1517,8 +1517,3 @@ don't replay
 
 ## Response:
 Got it! Let me know whenever you’re ready.
-
-
-
----
-Powered by [ChatGPT Exporter](https://www.chatgptexporter.com)
